@@ -1,4 +1,4 @@
-![logo](https://github.com/Navyasharma00/Navyasharma00/blob/332ae3bb44a1675ca24626e523db2c4bf2653acc/Navya%20Sharma.png?raw=true)
+![logo](https://github.com/Navyasharma00/Navyasharma00/blob/main/Navya%20Sharma-2.png)
 <h1 align="center">Hi 👋, I'm Navya Sharma</h1>
 <h3 align="center">Azure Data Engineer at RBC</h3>
 
