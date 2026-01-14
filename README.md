@@ -1,6 +1,6 @@
 ![logo](https://github.com/Navyasharma00/Navyasharma00/blob/main/Navya%20Sharma-2.png)
 <h1 align="center">Hi 👋, I'm Navya Sharma</h1>
-<h3 align="center">Azure Data Engineer at RBC</h3>
+<h3 align="center">Azure Data Engineer</h3>
 
 - 📫 How to reach me **navyasharma0918@gmail.com**
 
