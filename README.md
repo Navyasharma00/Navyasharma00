@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Navya Sharma</h1>
 <h3 align="center">Azure Data Engineer at RBC</h3>
 
-- 📫 How to reach me **sharma.navya15150@gmail.com**
+- 📫 How to reach me **navyasharma0918@gmail.com**
 
 - ⚡ Fun fact **Despite being a data wizard, I still need coffee to debug life. ☕💻**
 
